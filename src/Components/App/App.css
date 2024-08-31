@@ -1,0 +1,12 @@
+.suc{
+    background-color: green;
+    text-transform: capitalize;
+    width: fit-content;
+    color: whitesmoke;
+}
+.red{
+    background-color: red;
+    text-transform: capitalize;
+    color: whitesmoke;
+    width: fit-content;
+}
